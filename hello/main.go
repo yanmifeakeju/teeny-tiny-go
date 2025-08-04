@@ -31,7 +31,7 @@ func main() {
 		}
 
 		if strings.ToLower(input) == "quit" || strings.ToLower(input) == "exit" {
-			fmt.Println("Goodbye! ")
+			fmt.Println("Goodbye!")
 			break
 		}
 
